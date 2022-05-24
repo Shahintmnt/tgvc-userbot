@@ -10,11 +10,11 @@ Use at your own risks..
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/Shahintmnt/vc-userbot/fork">
+  <a href="https://github.com/LushaiMusic/vc-userbot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/vc-userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Shahintmnt/vc-userbot">
+  <a href="https://github.com/LushaiMusic/vc-userbot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/vc-userbot?style=social">
   </a>
 </p>

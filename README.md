@@ -10,11 +10,11 @@ Use at your own risks..
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/vc-userbot/fork">
+  <a href="https://github.com/Shahintmnt/vc-userbot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/vc-userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/vc-userbot">
+  <a href="https://github.com/Shahintmnt/vc-userbot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/vc-userbot?style=social">
   </a>
 </p>
@@ -32,8 +32,8 @@ Click the below button to watch the video tutorial on deploying
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LushaiMusic/vc-userbot](https://github.com/Shahintmnt/tgvc-userbot)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shahintmnt/vc-userbot)
+  
 - Enable the worker after deploy the project to Heroku
 
 Change the value of `PLUGIN` variable if you want to try other voice chat
